@@ -107,6 +107,7 @@
 |[ExcellentWebCheck](https://excellentwebcheck.com/website-accessibility-checker)|Mobile, Tablet and Desktop Accessibility Checker & Monitor|
 |[Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)|Google Chrome tool for web page audits
 |[PageGuard](https://pageguard.qiudeqiu.workers.dev)|Free website scanner with WCAG 2.1 AA accessibility audit. Checks ARIA labels, color contrast, keyboard navigation, heading structure, image alt text, and more. No signup required, results in ~30 seconds.|
+|[RGAAudit](https://rgaaudit.fr) | Automated RGAA 4.1 accessibility audit with pattern detection, AI suggestions,MCP and CI/CD integration. |
 |[Sim Daltonism](https://michelf.ca/projects/sim-daltonism/)|A color blindness simulator for Mac and iOS
 |[levelaccess](https://www.levelaccess.com/solutions/accessibility-audit-and-testing/)|Accessibility Auditing|
 |[tota11y - Accessibility Visualization Toolkit](http://khan.github.io/tota11y/)| Simple validator using bookmarklet or Javascript plugin
